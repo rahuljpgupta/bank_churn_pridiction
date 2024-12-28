@@ -1,0 +1,7 @@
+conda create -p venv python=3.11
+conda activate venv/
+pip install -r requirement.txt
+pip install ipykernel
+
+
+Activation Fn ---> sigmoid, tanh, Relu, Leaky Relu
